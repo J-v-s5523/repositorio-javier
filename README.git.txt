@@ -1,1 +1,1 @@
-README main
+README release
